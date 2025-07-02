@@ -1,0 +1,13 @@
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+joblib
+streamlit
+pymongo
+python-dotenv
+numpy
+plotly
+wordcloud
+mediapipe

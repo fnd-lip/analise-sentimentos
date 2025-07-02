@@ -1,0 +1,33 @@
+# Ambientes virtuais Python
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.pyc
+
+# Variáveis de ambiente
+.env
+
+# Logs
+logs/
+*.log
+
+# Dados brutos
+data/
+*.csv
+
+# Modelos treinados
+*.pkl
+
+# Imagens geradas (matrizes de confusão, etc)
+*.png
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Configuração de IDEs
+.vscode/
+.idea/
+*.swp
